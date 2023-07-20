@@ -9,3 +9,5 @@
 * 티처블 머신도 배우고
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
+
+![강아지사진](http://image.dongascience.com/Photo/2020/03/5bddba7b6574b95d37b6079c199d7101.jpg)
